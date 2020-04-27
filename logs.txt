@@ -1,0 +1,4 @@
+INFO: Mon Apr 27 11:56:47 MDT 2020 - Hello
+WARNING: Mon Apr 27 11:56:47 MDT 2020 - This is a Warning!
+ERROR: Mon Apr 27 11:56:47 MDT 2020 - Opps, This is an Error!
+FATAL: Mon Apr 27 11:56:47 MDT 2020 - Fatal Error

@@ -10,10 +10,10 @@ public class ClassesLesson {
 		
 		
 		Student student1 = new Student();
-		student1.firstName = "Josh";
-		student1.lastName = "Smith";
-		student1.phoneNumber = "435-619-4176";
-		student1.gradeLevel = 12;
+		student1.setFirstName("Josh");
+		student1.setLastName("Smith");
+		student1.setPhoneNumber("435-619-4176");
+		student1.setGradeLevel(12);
 		
 		student1.introduce();
 		
@@ -22,8 +22,9 @@ public class ClassesLesson {
 		
 		Student student3 = new Student("Tommy", "Pickles", "903-442-4444", 12);
 		student3.introduce();
+		
 		Student student4 = new Student("435-444-4444", "Johnny", "Roxx", 10);
-		student4.introduce();
+		student4.introduce(); //Test to see if order matters. It does in this scenario
 		
 		
 		

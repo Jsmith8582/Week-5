@@ -14,5 +14,8 @@ public class InheritcaneAbstractionPolymorphism {
 		System.out.println(manager.calculatePay());
 		
 		//Calculating out roughly 3 employee types pay per 2 week schedule
+		//1st spot = first name, 2nd spot = last name, 3rd spot is pay per hour worked
+		//4th is hours worked for hourly and bonus percentage for manager
+		
 	}
 }
