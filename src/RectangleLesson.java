@@ -1,4 +1,3 @@
-
 public class RectangleLesson {
 
 	private double length;
@@ -33,11 +32,5 @@ public class RectangleLesson {
 	public double getArea() {
 		return area;
 	}
-
-	
-	
-	
-	
-	
 	
 }

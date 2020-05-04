@@ -1,7 +1,7 @@
 
 public class AsteriskLogger implements Logger {
 
-
+	
 	@Override
 	public void Log(String str) {
 		System.out.println("***" + str + "***");
